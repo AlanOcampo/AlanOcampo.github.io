@@ -76,7 +76,7 @@ body { text-align: center; font:  20px/1.7 'Roboto Condensed';}
 .box {display: inline-block ; border: 3px solid black ;justify-content: center; padding: 1cm;margin-top: 1cm; background-color: white}
 /* 3.part of the web */
 body{background:  #696565 ; color:black;}
-.Pic{float: 50px;padding: 1cm;}
+.Pic{float: 50px;padding: 1cm;max-width: 99%;}
 .Con{color:#2ebfdf;float: right;padding: 1cm;}
 .HabS{color:#942edf ; padding: 1cm;}
 .studies{float: left;;width: 400px;}
