@@ -1,3 +1,4 @@
+<Alan Vidal Ocampo Orozco | Programacion para internet ciclo 22A | Seccion D03 | Profesor: LOPEZ FRANCO, MICHEL EMANUEL>
 # Trabajo1
 Esta es el primer trabajo de la materia programacion para internet, cosiste en utilizar HTML y CSS para realizar mi "curricululum".
 Este trabajo fue realizado con html para la programacion web y css para el estilo de la misma.
